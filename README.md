@@ -13,8 +13,8 @@ Predicts home prices using a real-world housing dataset and supervised regressio
 Python • Pandas • NumPy • scikit-learn • Matplotlib • Jupyter Notebook
 
 ## Files
-- `AlnuwayriZ_final_project.ipynb` — full analysis + modeling workflow  
-- `kc_house_data.csv` — dataset (optional to include if allowed)
+- `house-price-prediction.ipynb` — full analysis + modeling workflow  
+- `kc_house_data.csv` — dataset
 
 ## How to run
 1. Clone this repo
